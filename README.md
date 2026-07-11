@@ -16,6 +16,8 @@ The notes are plain Markdown and render well in VS Code, GitHub, or any Markdown
 
 There's no strict reading order. Jump to whatever is relevant.
 
+Suggested reading order if you do want one: start with the foundations in sequence — 01 Cyber Governance and Management, 02 Cyber Risk Management, 03 Legal, Regulatory, and Compliance, and 04 Privacy and Data Protection — since the later notes build on the governance, risk, and regulatory context they establish. After that, read the operational domains in any order that suits you, with two pairings worth keeping together: read 13 Incident Management and Business Continuity Planning after 12 Security Operations and Monitoring, and read 16 DevOps and DevSecOps after 15 Software Development Security. Note 00 Current Versions and Facts is a reference to check as you go, not a note to read front to back.
+
 ---
 
 ## Adding New Topics
@@ -108,5 +110,7 @@ Using the note template above, write a note on [TOPIC]. Focus on practical under
 ## Disclaimer
 
 These are personal notes. They are not official study materials and have not been reviewed or endorsed by any certification body or vendor. Content may contain errors or omissions. Always cross-reference with official documentation and current standards before relying on anything here professionally.
+
+Compliance, legal, and regulatory rules change over time. Framework versions, requirement numbers, reporting clocks, penalties, and effective dates are all subject to amendment, and any figure here may be out of date by the time you read it. In a professional context, always verify the true position against the original primary source, the current legislation, regulator guidance, or the framework's official publication, before you act on it.
 
 No certification, exam, tool, or product mentioned in these notes is being sold or marketed. References are purely for context.
